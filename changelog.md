@@ -1,3 +1,8 @@
+<a name="1.6.0"></a>
+# [1.6.0](https://github.com/fraywing/textAngular/compare/v1.5.16...v1.6.0) (2018-09-24)
+
+Upgrade to Angular > 1.7.0 and manage all dependencies with NPM.  
+
 <a name="1.5.16"></a>
 ## [1.5.16](https://github.com/fraywing/textAngular/compare/v1.5.15...v1.5.16) (2016-12-05)
 
