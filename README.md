@@ -1,7 +1,10 @@
 textAngular v1.5.16
 ===========
 
-[![Build Status](https://travis-ci.org/fraywing/textAngular.png?branch=master)](https://travis-ci.org/fraywing/textAngular) [![Coverage Status](https://coveralls.io/repos/fraywing/textAngular/badge.png)](https://coveralls.io/r/fraywing/textAngular)
+This is a fork of [textAngular](https://github.com/textAngular/textAngular) and patched to support AngularJS > 1.7.0. 
+Sage People use the HTML santizer provided by this library to support RTF fields editted in the Salesforce Classic 
+backend. The styling of these fiedls is controlled via HTML style attributes which are stripped by the standard 
+AngularJS sanitizer.
 
 
 Demo is available at: http://www.textangular.com (Or editable [Plunkr Demo](http://plnkr.co/edit/hz3x2f?p=preview))

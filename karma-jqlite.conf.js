@@ -13,15 +13,15 @@ module.exports = function (config) {
 		
 		files: [
             'node_modules/phantomjs-polyfill/bind-polyfill.js',
-			'bower_components/rangy/rangy-core.js',
-			'bower_components/rangy/rangy-selectionsaverestore.js',
-			'bower_components/angular/angular.min.js',
-			'bower_components/angular-mocks/angular-mocks.js',
+			'node_modules/rangy/lib/rangy-core.js',
+			'node_modules/rangy/lib/rangy-selectionsaverestore.js',
+			'node_modules/angular/angular.min.js',
+			'node_modules/angular-mocks/angular-mocks.js',
 			'dist/textAngular-sanitize.js',
 			'dist/textAngularSetup.js',
 			'dist/textAngular.js',
 			'test/helpers.js',
-			'bower_components/jquery/jquery.min.js',
+			'node_modules/jquery/jquery.min.js',
 			'test/**/*.spec.js'
 		],
 
