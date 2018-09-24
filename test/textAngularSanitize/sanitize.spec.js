@@ -187,7 +187,7 @@ describe('HTML', function() {
   });
 
   it('should remove unsafe value', function() {
-    expectHTML('<a href="javascript:alert()">').toEqual('<a></a>');
+    expectHTML('<a href="javascript:alert()">').toEqual('<a>');
   });
 
   it('should handle self closed elements', function() {
