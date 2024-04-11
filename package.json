@@ -48,7 +48,7 @@
     "grunt-shell": "^1.1.1",
     "grunt-umd": "^2.3.5",
     "jasmine-core": "^2.5.0",
-    "jquery": "1.9.x",
+    "jquery": "3.5.x",
     "karma": "^1.2.0",
     "karma-chrome-launcher": "^2.0.0",
     "karma-coverage": "^1.1.1",
